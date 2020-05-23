@@ -1,0 +1,22 @@
+{
+  "Welcome to App!": "Welcome to App!",
+  "Select your language": "Select your language",
+  "Spanish": "Spanish",
+  "English": "English",
+  "Logout": "Logout",
+  "Sign in": "Sign in",
+  "Sign up": "Sign up",
+  "Return home": "Return home",
+  "Sign in to App": "Sign in to App",
+  "Invalid email address": "Invalid email address",
+  "Required": "Required",
+  "Enter your email address and password": "Enter your email address and password",
+  "Email": "Email",
+  "Password": "Password",
+  "Submit": "Submit",
+  "Don’t have an account yet?": "Don’t have an account yet?",
+  "Must be 8 characters or more": "Must be 8 characters or more",
+  "Something happened, please try again later": "Something happened, please try again later",
+  "Sign up with your email and a password": "Sign up with your email and a password",
+  "Already have an account?": "Already have an account?"
+}

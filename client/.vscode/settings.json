@@ -1,0 +1,8 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnSave": true,
+  "eslint.options": {
+    "useEslintrc": false,
+    "configFile": ".eslintrc.json"
+  }
+}
